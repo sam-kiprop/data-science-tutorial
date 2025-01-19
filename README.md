@@ -1,4 +1,4 @@
-In person training - https://www.edyoda.com/program/data-scientist-program
+
 
 # Machine Learning Git Codebook
 
